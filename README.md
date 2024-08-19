@@ -1,2 +1,2 @@
 # Pandas
-Just a little basic analitics on begginers themes: titanic and McDonalds' menu
+Just a little basic analitics and machine learning on begginers themes: titanic and McDonalds' menu
